@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>KG Tahmin — Taktik Tahtası</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="tahta-govde">
+
+  <header class="tahta-baslik">
+    <div class="baslik-sol">
+      <span class="dudukcu">⚽</span>
+      <div>
+        <h1>Taktik Tahtası</h1>
+        <span class="alt-yazi">KG olasılık analizi — demo</span>
+      </div>
+    </div>
+    <button class="kadro-rozeti" id="kadroRozeti" type="button">
+      <span class="forma-no" id="kadroSayisi">0</span>
+      <span class="kadro-rozeti-metin">Kadrom<br><strong id="kadroOran">0.00x</strong></span>
+    </button>
+  </header>
+
+  <p class="tebesir-not">
+    ★ DEMO TAHTASI — tüm maç/oran/sinyal verisi kurgusaldır, gerçek servise bağlı değildir.
+    Kadro listesi gerçek bahis değildir, sadece kazanç simülasyonudur.
+  </p>
+
+  <nav class="sekme-cizgisi" id="sekmeNav">
+    <button class="sekme-etiket aktif" data-sekme="bulten">Kadro Analizi</button>
+    <button class="sekme-etiket" data-sekme="canli">Sahada</button>
+    <button class="sekme-etiket" data-sekme="arsiv">Taktik Defteri</button>
+    <button class="sekme-etiket" data-sekme="kupon">Kadro Listem</button>
+  </nav>
+
+  <main id="ana-icerik">
+
+    <!-- ============ KADRO ANALİZİ (Bülten) ============ -->
+    <section class="tahta-sayfa aktif" id="sayfa-bulten">
+      <div class="sayfa-basligi">
+        <h2>Günün Kadro Analizi</h2>
+        <div class="filtre-grubu" id="bultenFiltre">
+          <button class="filtre-cip aktif" data-f="hepsi">Tümü</button>
+          <button class="filtre-cip" data-f="kesin">İlk 11</button>
+          <button class="filtre-cip" data-f="olasi">Yedek Kulübesi</button>
+        </div>
+      </div>
+      <div class="skor-tahtasi" id="bultenSkorTahtasi"></div>
+      <div class="oyuncu-listesi" id="bultenListesi"></div>
+    </section>
+
+    <!-- ============ SAHADA (Canlı) ============ -->
+    <section class="tahta-sayfa" id="sayfa-canli">
+      <div class="sayfa-basligi"><h2>Şu An Sahada</h2></div>
+      <p class="taktik-aciklama">KG durumu kickoff düdüğünden hemen önce sabitlenir, maç boyunca değişmez. Sahadaki canlı KG oranı gerçek zamanlı güncellenir.</p>
+      <div class="saha-listesi" id="canliListesi"></div>
+    </section>
+
+    <!-- ============ TAKTİK DEFTERİ (Arşiv) ============ -->
+    <section class="tahta-sayfa" id="sayfa-arsiv">
+      <div class="sayfa-basligi">
+        <h2>Taktik Defteri</h2>
+        <div class="filtre-grubu" id="arsivFiltre">
+          <button class="filtre-cip aktif" data-a="aktif">Devam Eden</button>
+          <button class="filtre-cip" data-a="biten">Düdük Çaldı (24s)</button>
+        </div>
+      </div>
+      <div class="not-listesi" id="arsivListesi"></div>
+    </section>
+
+    <!-- ============ KADRO LİSTEM (Kupon) ============ -->
+    <section class="tahta-sayfa" id="sayfa-kupon">
+      <div class="sayfa-basligi">
+        <h2>Kadro Listem</h2>
+        <button class="kadro-bosalt-btn" id="kadroBosaltBtn" type="button">Kadroyu Boşalt</button>
+      </div>
+      <div class="kadro-slotlari" id="kadroSlotlari"></div>
+
+      <div class="taktik-panosu">
+        <div class="pano-satiri">
+          <div><label>OYUNCU SAYISI</label><strong id="kuponAdet">0</strong></div>
+          <div><label>TAKIM GÜCÜ (Toplam Oran)</label><strong id="kuponToplamOran">0.00</strong></div>
+        </div>
+        <label class="yatirim-label">Yatırım (TL)
+          <input type="number" inputmode="decimal" id="kuponTutar" placeholder="0" min="0" step="1">
+        </label>
+        <div class="tahmini-kazanc-satiri">
+          <label>Tahmini Kazanç</label>
+          <strong id="kuponKazanc">0,00 ₺</strong>
+        </div>
+        <p class="pano-dipnot">* Gerçek bahis değildir, sadece kazanç simülasyonudur. Oranlar iddaa.com karşılığı tahmini değere (Nesine oranı × 1.037) çevrilerek gösterilir.</p>
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="tahta-alt">
+    <span>Veri üretim zamanı: <span id="uretimZamani">—</span></span>
+  </footer>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

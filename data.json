@@ -1,0 +1,1531 @@
+{
+  "olusturulmaZamani": "2026-09-12T00:00:00+03:00",
+  "statsTablosu": {
+    "13,6": {
+      "tutma": 4,
+      "toplam": 4
+    },
+    "9,4": {
+      "tutma": 6,
+      "toplam": 6
+    },
+    "17,7": {
+      "tutma": 3,
+      "toplam": 3
+    },
+    "11,5": {
+      "tutma": 5,
+      "toplam": 5
+    },
+    "21,8": {
+      "tutma": 8,
+      "toplam": 8
+    },
+    "8,3": {
+      "tutma": 3,
+      "toplam": 3
+    },
+    "14,9": {
+      "tutma": 12,
+      "toplam": 12
+    },
+    "18,9": {
+      "tutma": 4,
+      "toplam": 7
+    },
+    "14,4": {
+      "tutma": 10,
+      "toplam": 11
+    },
+    "6,3": {
+      "tutma": 1,
+      "toplam": 1
+    },
+    "22,10": {
+      "tutma": 2,
+      "toplam": 2
+    },
+    "10,4": {
+      "tutma": 5,
+      "toplam": 9
+    },
+    "19,8": {
+      "tutma": 2,
+      "toplam": 3
+    },
+    "7,2": {
+      "tutma": 6,
+      "toplam": 8
+    },
+    "25,11": {
+      "tutma": 1,
+      "toplam": 2
+    },
+    "12,5": {
+      "tutma": 3,
+      "toplam": 6
+    },
+    "16,6": {
+      "tutma": 7,
+      "toplam": 13
+    },
+    "5,2": {
+      "tutma": 2,
+      "toplam": 2
+    },
+    "20,9": {
+      "tutma": 4,
+      "toplam": 4
+    },
+    "9,3": {
+      "tutma": 3,
+      "toplam": 5
+    },
+    "23,10": {
+      "tutma": 1,
+      "toplam": 1
+    },
+    "15,5": {
+      "tutma": 9,
+      "toplam": 10
+    },
+    "24,12": {
+      "tutma": 5,
+      "toplam": 5
+    }
+  },
+  "bulten": [
+    {
+      "id": "3417043",
+      "lig": "İtalya Serie A",
+      "evSahibi": "Lyon",
+      "deplasman": "Monaco",
+      "macZamani": "2026-09-12T01:53:32.745466+03:00",
+      "msKg": 1.78,
+      "altUst6": 1.62,
+      "iymsKg": 8.37
+    },
+    {
+      "id": "3417005",
+      "lig": "Bulgaristan Parva Liga",
+      "evSahibi": "Legia Varşova",
+      "deplasman": "Wisla Krakow",
+      "macZamani": "2026-09-12T02:02:47.727207+03:00",
+      "msKg": 1.35,
+      "altUst6": 9.49,
+      "iymsKg": 14.34
+    },
+    {
+      "id": "3417016",
+      "lig": "Hollanda Eredivisie",
+      "evSahibi": "Rosenborg",
+      "deplasman": "Molde",
+      "macZamani": "2026-09-12T02:06:13.239715+03:00",
+      "msKg": 1.47,
+      "altUst6": 3.87,
+      "iymsKg": 9.64
+    },
+    {
+      "id": "3417015",
+      "lig": "Meksika Liga MX",
+      "evSahibi": "Juventus",
+      "deplasman": "Napoli",
+      "macZamani": "2026-09-12T02:55:36.055501+03:00",
+      "msKg": 1.4,
+      "altUst6": 5.19,
+      "iymsKg": 15.18
+    },
+    {
+      "id": "3417013",
+      "lig": "Danimarka Superligaen",
+      "evSahibi": "Fenerbahçe",
+      "deplasman": "Beşiktaş",
+      "macZamani": "2026-09-12T03:02:05.177415+03:00",
+      "msKg": 1.52,
+      "altUst6": 9.48,
+      "iymsKg": 14.75
+    },
+    {
+      "id": "3417014",
+      "lig": "İngiltere Premier Lig U21",
+      "evSahibi": "Sydney FC",
+      "deplasman": "Melbourne Victory",
+      "macZamani": "2026-09-12T03:42:30.957476+03:00",
+      "msKg": 1.6,
+      "altUst6": 7.27,
+      "iymsKg": 17.08
+    },
+    {
+      "id": "3417037",
+      "lig": "İsviçre Super Lig",
+      "evSahibi": "Nublense",
+      "deplasman": "Everton DV",
+      "macZamani": "2026-09-12T04:44:14.235360+03:00",
+      "msKg": 1.57,
+      "altUst6": 7.13,
+      "iymsKg": 30.69
+    },
+    {
+      "id": "3417039",
+      "lig": "Arjantin Liga Profesyonal",
+      "evSahibi": "Crvena Zvezda",
+      "deplasman": "Partizan",
+      "macZamani": "2026-09-12T04:51:13.637636+03:00",
+      "msKg": 1.28,
+      "altUst6": 6.66,
+      "iymsKg": 12.63
+    },
+    {
+      "id": "3417042",
+      "lig": "Brezilya Serie A",
+      "evSahibi": "AL Taawoun",
+      "deplasman": "Al Hilal",
+      "macZamani": "2026-09-12T05:39:03.772089+03:00",
+      "msKg": 2.27,
+      "altUst6": 5.65,
+      "iymsKg": 23.65
+    },
+    {
+      "id": "3417048",
+      "lig": "Avusturya Bundesliga",
+      "evSahibi": "Yokohama Marinos",
+      "deplasman": "Kawasaki Frontale",
+      "macZamani": "2026-09-12T08:08:56.193157+03:00",
+      "msKg": 1.77,
+      "altUst6": 2.86,
+      "iymsKg": 20.12
+    },
+    {
+      "id": "3417049",
+      "lig": "İngiltere Premier Lig",
+      "evSahibi": "Inter",
+      "deplasman": "Milan",
+      "macZamani": "2026-09-12T08:10:37.947098+03:00",
+      "msKg": 1.41,
+      "altUst6": 10.49,
+      "iymsKg": 18.53
+    },
+    {
+      "id": "3417026",
+      "lig": "Fransa Ligue 1",
+      "evSahibi": "Salzburg",
+      "deplasman": "Sturm Graz",
+      "macZamani": "2026-09-12T08:20:24.552375+03:00",
+      "msKg": 2.01,
+      "altUst6": 10.09,
+      "iymsKg": 24.33
+    },
+    {
+      "id": "3417036",
+      "lig": "Polonya Ekstraklasa",
+      "evSahibi": "Liverpool",
+      "deplasman": "Manchester City",
+      "macZamani": "2026-09-12T08:36:28.619167+03:00",
+      "msKg": 1.46,
+      "altUst6": 5.79,
+      "iymsKg": 14.6
+    },
+    {
+      "id": "3417034",
+      "lig": "Hollanda Eredivisie",
+      "evSahibi": "Colo Colo",
+      "deplasman": "Universidad de Chile",
+      "macZamani": "2026-09-12T09:07:25.828203+03:00",
+      "msKg": 1.64,
+      "altUst6": 15.13,
+      "iymsKg": 22.92
+    },
+    {
+      "id": "3417050",
+      "lig": "Ukrayna Premier Lig",
+      "evSahibi": "Pohang Steelers",
+      "deplasman": "FC Seoul",
+      "macZamani": "2026-09-12T09:45:29.968564+03:00",
+      "msKg": 1.35,
+      "altUst6": 11.78,
+      "iymsKg": 22.06
+    },
+    {
+      "id": "3417040",
+      "lig": "Güney Kore K Lig 1",
+      "evSahibi": "Shanghai Port",
+      "deplasman": "Shandong Taishan",
+      "macZamani": "2026-09-12T10:23:39.872194+03:00",
+      "msKg": 1.88,
+      "altUst6": 5.92,
+      "iymsKg": 18.9
+    },
+    {
+      "id": "3417018",
+      "lig": "İspanya La Liga B Takımları",
+      "evSahibi": "FCSB",
+      "deplasman": "CFR Cluj",
+      "macZamani": "2026-09-12T11:45:47.845739+03:00",
+      "msKg": 2.06,
+      "altUst6": 9.17,
+      "iymsKg": 14.48
+    },
+    {
+      "id": "3417004",
+      "lig": "İsveç Allsvenskan",
+      "evSahibi": "Bodo/Glimt",
+      "deplasman": "Viking",
+      "macZamani": "2026-09-12T12:23:15.016245+03:00",
+      "msKg": 2.25,
+      "altUst6": 9.85,
+      "iymsKg": 18.88
+    },
+    {
+      "id": "3417035",
+      "lig": "Arjantin Liga Profesyonal",
+      "evSahibi": "PSG",
+      "deplasman": "Marsilya",
+      "macZamani": "2026-09-12T12:31:45.816166+03:00",
+      "msKg": 2.21,
+      "altUst6": 15.45,
+      "iymsKg": 21.24
+    },
+    {
+      "id": "3417019",
+      "lig": "Slovenya PrvaLiga",
+      "evSahibi": "Antalyaspor",
+      "deplasman": "Konyaspor",
+      "macZamani": "2026-09-12T13:25:40.037913+03:00",
+      "msKg": 1.59,
+      "altUst6": null,
+      "iymsKg": 2.67
+    },
+    {
+      "id": "3417032",
+      "lig": "Meksika Liga MX",
+      "evSahibi": "Dinamo Zagreb",
+      "deplasman": "Hajduk Split",
+      "macZamani": "2026-09-12T13:57:08.534641+03:00",
+      "msKg": 1.87,
+      "altUst6": 1.44,
+      "iymsKg": 9.09
+    },
+    {
+      "id": "3417046",
+      "lig": "Şili Premier Lig",
+      "evSahibi": "Barcelona",
+      "deplasman": "Villarreal",
+      "macZamani": "2026-09-12T15:30:22.560699+03:00",
+      "msKg": 1.69,
+      "altUst6": 10.79,
+      "iymsKg": 6.76
+    },
+    {
+      "id": "3417029",
+      "lig": "Avusturya Bundesliga",
+      "evSahibi": "Sporting CP",
+      "deplasman": "Braga",
+      "macZamani": "2026-09-12T17:41:44.214515+03:00",
+      "msKg": 1.58,
+      "altUst6": 4.78,
+      "iymsKg": 19.11
+    },
+    {
+      "id": "3417002",
+      "lig": "İngiltere Premier Lig",
+      "evSahibi": "Everton",
+      "deplasman": "Aston Villa",
+      "macZamani": "2026-09-12T18:15:41.183487+03:00",
+      "msKg": 2.02,
+      "altUst6": 4.74,
+      "iymsKg": 9.73
+    },
+    {
+      "id": "3417033",
+      "lig": "Suudi Arabistan Pro Lig",
+      "evSahibi": "Koper",
+      "deplasman": "O. Ljubljana",
+      "macZamani": "2026-09-12T19:06:50.863684+03:00",
+      "msKg": 1.76,
+      "altUst6": 12.77,
+      "iymsKg": 14.43
+    },
+    {
+      "id": "3417031",
+      "lig": "Güney Kore K Lig 1",
+      "evSahibi": "Ludogorets",
+      "deplasman": "Levski Sofia",
+      "macZamani": "2026-09-12T19:18:06.758087+03:00",
+      "msKg": 1.67,
+      "altUst6": 11.47,
+      "iymsKg": 23.69
+    },
+    {
+      "id": "3417022",
+      "lig": "Türkiye Süper Ligi",
+      "evSahibi": "Basel",
+      "deplasman": "Young Boys",
+      "macZamani": "2026-09-12T19:37:30.794396+03:00",
+      "msKg": 2.18,
+      "altUst6": 11.32,
+      "iymsKg": 5.3
+    },
+    {
+      "id": "3417041",
+      "lig": "Çin Süper Lig",
+      "evSahibi": "Anderlecht",
+      "deplasman": "Club Brugge",
+      "macZamani": "2026-09-12T19:52:44.838987+03:00",
+      "msKg": 1.73,
+      "altUst6": null,
+      "iymsKg": 10.39
+    },
+    {
+      "id": "3417011",
+      "lig": "İsviçre Super Lig",
+      "evSahibi": "Arsenal",
+      "deplasman": "Chelsea",
+      "macZamani": "2026-09-12T20:08:44.025153+03:00",
+      "msKg": 1.64,
+      "altUst6": 3.58,
+      "iymsKg": 6.92
+    },
+    {
+      "id": "3417006",
+      "lig": "Türkiye Süper Ligi, Kadınlar",
+      "evSahibi": "Boca Juniors",
+      "deplasman": "River Plate",
+      "macZamani": "2026-09-12T20:10:12.160610+03:00",
+      "msKg": 1.83,
+      "altUst6": 3.93,
+      "iymsKg": 8.69
+    },
+    {
+      "id": "3417007",
+      "lig": "Belçika Pro Lig",
+      "evSahibi": "Ulsan HD",
+      "deplasman": "Jeonbuk Hyundai",
+      "macZamani": "2026-09-12T22:42:10.774987+03:00",
+      "msKg": 1.9,
+      "altUst6": 9.56,
+      "iymsKg": 20.52
+    },
+    {
+      "id": "3417012",
+      "lig": "Belçika Pro Lig",
+      "evSahibi": "Al Nassr",
+      "deplasman": "Al Ittihad",
+      "macZamani": "2026-09-12T22:54:39.071001+03:00",
+      "msKg": 1.71,
+      "altUst6": 5.84,
+      "iymsKg": 12.27
+    },
+    {
+      "id": "3417030",
+      "lig": "Finlandiya Veikkausliiga",
+      "evSahibi": "Beijing Guoan",
+      "deplasman": "Shanghai Shenhua",
+      "macZamani": "2026-09-13T00:44:13.323024+03:00",
+      "msKg": 2.24,
+      "altUst6": null,
+      "iymsKg": 15.83
+    },
+    {
+      "id": "3417003",
+      "lig": "İspanya La Liga",
+      "evSahibi": "HJK Helsinki",
+      "deplasman": "KuPS",
+      "macZamani": "2026-09-13T01:09:23.422971+03:00",
+      "msKg": 1.46,
+      "altUst6": 7.48,
+      "iymsKg": 17.16
+    },
+    {
+      "id": "3417027",
+      "lig": "Sırbistan SuperLiga",
+      "evSahibi": "Hammarby",
+      "deplasman": "Djurgarden",
+      "macZamani": "2026-09-13T02:38:04.761945+03:00",
+      "msKg": 1.31,
+      "altUst6": 14.54,
+      "iymsKg": 11.5
+    },
+    {
+      "id": "3417001",
+      "lig": "Türkiye Süper Ligi",
+      "evSahibi": "Shakhtar Donetsk",
+      "deplasman": "Dinamo Kiev",
+      "macZamani": "2026-09-13T05:07:31.914949+03:00",
+      "msKg": 2.19,
+      "altUst6": 6.24,
+      "iymsKg": 13.75
+    },
+    {
+      "id": "3417017",
+      "lig": "Avustralya A-Lig",
+      "evSahibi": "Atletico Madrid",
+      "deplasman": "Real Sociedad",
+      "macZamani": "2026-09-13T07:08:15.970477+03:00",
+      "msKg": 1.76,
+      "altUst6": 3.84,
+      "iymsKg": 8.77
+    },
+    {
+      "id": "3417009",
+      "lig": "Romanya Liga 1",
+      "evSahibi": "Galatasaray",
+      "deplasman": "Trabzonspor",
+      "macZamani": "2026-09-13T07:18:13.409686+03:00",
+      "msKg": 1.64,
+      "altUst6": 8.2,
+      "iymsKg": 21.27
+    },
+    {
+      "id": "3417008",
+      "lig": "İspanya La Liga",
+      "evSahibi": "Ajax",
+      "deplasman": "PSV",
+      "macZamani": "2026-09-13T09:30:45.667134+03:00",
+      "msKg": 1.6,
+      "altUst6": 4.2,
+      "iymsKg": 10.21
+    },
+    {
+      "id": "3417028",
+      "lig": "Japonya J1 Lig",
+      "evSahibi": "Flamengo",
+      "deplasman": "Palmeiras",
+      "macZamani": "2026-09-13T09:52:26.390078+03:00",
+      "msKg": 1.8,
+      "altUst6": 12.52,
+      "iymsKg": 21.34
+    },
+    {
+      "id": "3417038",
+      "lig": "Belçika Pro Lig",
+      "evSahibi": "Benfica",
+      "deplasman": "Porto",
+      "macZamani": "2026-09-13T10:05:08.406571+03:00",
+      "msKg": 1.47,
+      "altUst6": 12.93,
+      "iymsKg": 14.72
+    },
+    {
+      "id": "3417023",
+      "lig": "Avusturya Bundesliga",
+      "evSahibi": "Al Ahli",
+      "deplasman": "Al Shabab",
+      "macZamani": "2026-09-13T10:22:07.803164+03:00",
+      "msKg": 1.83,
+      "altUst6": 3.82,
+      "iymsKg": 21.21
+    },
+    {
+      "id": "3417020",
+      "lig": "Suudi Arabistan Pro Lig",
+      "evSahibi": "Olympiakos",
+      "deplasman": "Panathinaikos",
+      "macZamani": "2026-09-13T12:19:36.925610+03:00",
+      "msKg": 2.1,
+      "altUst6": 14.43,
+      "iymsKg": 9.91
+    },
+    {
+      "id": "3417021",
+      "lig": "Finlandiya Veikkausliiga",
+      "evSahibi": "Chippa Utd",
+      "deplasman": "Mamelodi Sundowns",
+      "macZamani": "2026-09-13T13:56:55.755888+03:00",
+      "msKg": 1.33,
+      "altUst6": 2.22,
+      "iymsKg": 6.41
+    },
+    {
+      "id": "3417024",
+      "lig": "Şili Premier Lig",
+      "evSahibi": "Lille",
+      "deplasman": "Nice",
+      "macZamani": "2026-09-13T14:09:50.753147+03:00",
+      "msKg": 1.26,
+      "altUst6": 10.84,
+      "iymsKg": 3.69
+    },
+    {
+      "id": "3417010",
+      "lig": "İspanya La Liga B Takımları",
+      "evSahibi": "LNZ Cherkasy",
+      "deplasman": "Obolon Kiev",
+      "macZamani": "2026-09-13T14:22:22.528584+03:00",
+      "msKg": 1.68,
+      "altUst6": 3.52,
+      "iymsKg": 8.08
+    },
+    {
+      "id": "3417025",
+      "lig": "İsviçre Super Lig",
+      "evSahibi": "Gornik Zabrze",
+      "deplasman": "Lech Poznan",
+      "macZamani": "2026-09-13T17:09:31.134794+03:00",
+      "msKg": 1.49,
+      "altUst6": 14.74,
+      "iymsKg": 16.11
+    },
+    {
+      "id": "3417047",
+      "lig": "Çin Süper Lig",
+      "evSahibi": "Maribor",
+      "deplasman": "Celje",
+      "macZamani": "2026-09-13T18:31:37.693997+03:00",
+      "msKg": 1.27,
+      "altUst6": 9.57,
+      "iymsKg": 30.27
+    },
+    {
+      "id": "3417045",
+      "lig": "İtalya Serie A",
+      "evSahibi": "Club America",
+      "deplasman": "Chivas",
+      "macZamani": "2026-09-13T19:02:21.610903+03:00",
+      "msKg": 1.64,
+      "altUst6": 2.22,
+      "iymsKg": 6.93
+    },
+    {
+      "id": "3417044",
+      "lig": "Meksika Liga MX",
+      "evSahibi": "Kaizer Chiefs",
+      "deplasman": "Orlando Pirates",
+      "macZamani": "2026-09-13T23:34:04.806085+03:00",
+      "msKg": 2.24,
+      "altUst6": 7.68,
+      "iymsKg": 3.6
+    }
+  ],
+  "canli": [
+    {
+      "id": "3221730",
+      "lig": "Şili Premier Lig",
+      "evSahibi": "Nublense",
+      "deplasman": "Everton DV",
+      "macZamani": "2026-09-11T23:48:00+03:00",
+      "dakika": "2'",
+      "skorEv": 0,
+      "skorDep": 0,
+      "canliMsKg": 1.5,
+      "msKg": 1.55,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3300001",
+      "lig": "Ukrayna Premier Lig",
+      "evSahibi": "LNZ Cherkasy",
+      "deplasman": "Obolon Kiev",
+      "macZamani": "2026-09-11T22:42:00+03:00",
+      "dakika": "78'",
+      "skorEv": 3,
+      "skorDep": 1,
+      "canliMsKg": 1.05,
+      "msKg": 1.4,
+      "dondurulmusGuven": {
+        "guven": "olasi",
+        "onerilen": true,
+        "tutma": 4,
+        "toplam": 7,
+        "tutmaOrani": 0.5714285714285714,
+        "ligUygun": false
+      },
+      "kirmiziSinyal": {
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 75,
+        "skorEv": 3,
+        "skorDep": 1
+      }
+    },
+    {
+      "id": "3417051",
+      "lig": "İskoçya Premiership",
+      "evSahibi": "Malmö FF",
+      "deplasman": "AIK",
+      "macZamani": "2026-09-11T23:40:28.716823+03:00",
+      "dakika": "61'",
+      "skorEv": 2,
+      "skorDep": 0,
+      "canliMsKg": 1.24,
+      "msKg": 1.28,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": {
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 58,
+        "skorEv": 2,
+        "skorDep": 0
+      }
+    },
+    {
+      "id": "3417052",
+      "lig": "Fransa Ligue 1",
+      "evSahibi": "Kopenhag",
+      "deplasman": "Brondby",
+      "macZamani": "2026-09-11T23:12:10.459144+03:00",
+      "dakika": "84'",
+      "skorEv": 1,
+      "skorDep": 1,
+      "canliMsKg": 1.75,
+      "msKg": 1.47,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417053",
+      "lig": "Güney Kore K Lig 1",
+      "evSahibi": "Roma",
+      "deplasman": "Fiorentina",
+      "macZamani": "2026-09-11T22:45:08.555846+03:00",
+      "dakika": "70'",
+      "skorEv": 2,
+      "skorDep": 3,
+      "canliMsKg": 1.32,
+      "msKg": 1.34,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417054",
+      "lig": "Suudi Arabistan Pro Lig",
+      "evSahibi": "Celtic",
+      "deplasman": "Rangers",
+      "macZamani": "2026-09-11T23:25:44.813045+03:00",
+      "dakika": "78'",
+      "skorEv": 1,
+      "skorDep": 2,
+      "canliMsKg": 1.13,
+      "msKg": 1.28,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417055",
+      "lig": "Norveç Eliteserien",
+      "evSahibi": "Feyenoord",
+      "deplasman": "AZ Alkmaar",
+      "macZamani": "2026-09-11T23:37:24.675678+03:00",
+      "dakika": "78'",
+      "skorEv": 0,
+      "skorDep": 1,
+      "canliMsKg": 1.46,
+      "msKg": 1.64,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": {
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 75,
+        "skorEv": 0,
+        "skorDep": 1
+      }
+    },
+    {
+      "id": "3417056",
+      "lig": "Güney Kore K Lig 1",
+      "evSahibi": "Real Madrid",
+      "deplasman": "Sevilla",
+      "macZamani": "2026-09-11T23:39:07.278771+03:00",
+      "dakika": "45'",
+      "skorEv": 0,
+      "skorDep": 1,
+      "canliMsKg": 1.2,
+      "msKg": 1.44,
+      "dondurulmusGuven": {
+        "guven": "olasi",
+        "onerilen": true,
+        "tutma": 2,
+        "toplam": 2,
+        "tutmaOrani": 1.0,
+        "ligUygun": true
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417057",
+      "lig": "Fransa Ligue 1",
+      "evSahibi": "Shakhtar Donetsk",
+      "deplasman": "Dinamo Kiev",
+      "macZamani": "2026-09-11T23:27:47.048401+03:00",
+      "dakika": "38'",
+      "skorEv": 3,
+      "skorDep": 3,
+      "canliMsKg": 1.39,
+      "msKg": 1.57,
+      "dondurulmusGuven": {
+        "guven": "olasi",
+        "onerilen": true,
+        "tutma": 1,
+        "toplam": 2,
+        "tutmaOrani": 0.5,
+        "ligUygun": true
+      },
+      "kirmiziSinyal": {
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 35,
+        "skorEv": 3,
+        "skorDep": 3
+      }
+    },
+    {
+      "id": "3417058",
+      "lig": "Bulgaristan Parva Liga",
+      "evSahibi": "Everton",
+      "deplasman": "Aston Villa",
+      "macZamani": "2026-09-11T23:30:51.882660+03:00",
+      "dakika": "90'",
+      "skorEv": 1,
+      "skorDep": 1,
+      "canliMsKg": 1.71,
+      "msKg": 1.73,
+      "dondurulmusGuven": {
+        "guven": "olasi",
+        "onerilen": true,
+        "tutma": 4,
+        "toplam": 7,
+        "tutmaOrani": 0.5714285714285714,
+        "ligUygun": false
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417059",
+      "lig": "Portekiz Premier Ligi",
+      "evSahibi": "HJK Helsinki",
+      "deplasman": "KuPS",
+      "macZamani": "2026-09-11T23:43:41.177466+03:00",
+      "dakika": "38'",
+      "skorEv": 3,
+      "skorDep": 0,
+      "canliMsKg": 1.3,
+      "msKg": 1.62,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417060",
+      "lig": "Finlandiya Veikkausliiga",
+      "evSahibi": "Bodo/Glimt",
+      "deplasman": "Viking",
+      "macZamani": "2026-09-11T23:24:45.397097+03:00",
+      "dakika": "78'",
+      "skorEv": 0,
+      "skorDep": 2,
+      "canliMsKg": 1.23,
+      "msKg": 2.07,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417061",
+      "lig": "Hırvatistan HNL",
+      "evSahibi": "Legia Varşova",
+      "deplasman": "Wisla Krakow",
+      "macZamani": "2026-09-11T23:34:36.032127+03:00",
+      "dakika": "38'",
+      "skorEv": 2,
+      "skorDep": 0,
+      "canliMsKg": 1.13,
+      "msKg": 2.04,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417062",
+      "lig": "Portekiz Premier Ligi",
+      "evSahibi": "Boca Juniors",
+      "deplasman": "River Plate",
+      "macZamani": "2026-09-11T22:43:45.900585+03:00",
+      "dakika": "12'",
+      "skorEv": 2,
+      "skorDep": 1,
+      "canliMsKg": 1.78,
+      "msKg": 1.8,
+      "dondurulmusGuven": {
+        "guven": "kesin",
+        "onerilen": true,
+        "tutma": 12,
+        "toplam": 12,
+        "tutmaOrani": 1.0,
+        "ligUygun": true
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417063",
+      "lig": "Polonya Ekstraklasa",
+      "evSahibi": "Ulsan HD",
+      "deplasman": "Jeonbuk Hyundai",
+      "macZamani": "2026-09-11T23:21:44.035610+03:00",
+      "dakika": "38'",
+      "skorEv": 1,
+      "skorDep": 2,
+      "canliMsKg": 1.12,
+      "msKg": 2.17,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417064",
+      "lig": "Güney Kore K Lig 1",
+      "evSahibi": "Ajax",
+      "deplasman": "PSV",
+      "macZamani": "2026-09-11T23:04:24.806135+03:00",
+      "dakika": "4'",
+      "skorEv": 1,
+      "skorDep": 3,
+      "canliMsKg": 1.32,
+      "msKg": 1.61,
+      "dondurulmusGuven": {
+        "guven": "olasi",
+        "onerilen": true,
+        "tutma": 3,
+        "toplam": 6,
+        "tutmaOrani": 0.5,
+        "ligUygun": true
+      },
+      "kirmiziSinyal": {
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 1,
+        "skorEv": 1,
+        "skorDep": 3
+      }
+    },
+    {
+      "id": "3417065",
+      "lig": "Hollanda Eredivisie",
+      "evSahibi": "Galatasaray",
+      "deplasman": "Trabzonspor",
+      "macZamani": "2026-09-11T22:53:34.456488+03:00",
+      "dakika": "84'",
+      "skorEv": 3,
+      "skorDep": 1,
+      "canliMsKg": 1.77,
+      "msKg": 2.04,
+      "dondurulmusGuven": {
+        "guven": "kesin",
+        "onerilen": true,
+        "tutma": 12,
+        "toplam": 12,
+        "tutmaOrani": 1.0,
+        "ligUygun": true
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417066",
+      "lig": "Suudi Arabistan Pro Lig",
+      "evSahibi": "LNZ Cherkasy",
+      "deplasman": "Obolon Kiev",
+      "macZamani": "2026-09-11T23:18:22.276281+03:00",
+      "dakika": "61'",
+      "skorEv": 1,
+      "skorDep": 1,
+      "canliMsKg": 1.19,
+      "msKg": 1.26,
+      "dondurulmusGuven": {
+        "guven": "kesin",
+        "onerilen": true,
+        "tutma": 3,
+        "toplam": 3,
+        "tutmaOrani": 1.0,
+        "ligUygun": true
+      },
+      "kirmiziSinyal": null
+    },
+    {
+      "id": "3417067",
+      "lig": "Belçika Pro Lig",
+      "evSahibi": "Arsenal",
+      "deplasman": "Chelsea",
+      "macZamani": "2026-09-11T23:04:58.504816+03:00",
+      "dakika": "23'",
+      "skorEv": 1,
+      "skorDep": 0,
+      "canliMsKg": 1.12,
+      "msKg": 1.38,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": {
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 20,
+        "skorEv": 1,
+        "skorDep": 0
+      }
+    },
+    {
+      "id": "3417068",
+      "lig": "İskoçya Premiership",
+      "evSahibi": "Al Nassr",
+      "deplasman": "Al Ittihad",
+      "macZamani": "2026-09-11T23:36:52.383875+03:00",
+      "dakika": "70'",
+      "skorEv": 0,
+      "skorDep": 0,
+      "canliMsKg": 1.49,
+      "msKg": 1.51,
+      "dondurulmusGuven": {
+        "guven": null,
+        "onerilen": false,
+        "tutma": null,
+        "toplam": null,
+        "tutmaOrani": null,
+        "ligUygun": null
+      },
+      "kirmiziSinyal": null
+    }
+  ],
+  "arsiv": {
+    "aktif": [
+      {
+        "home": "LNZ Cherkasy",
+        "away": "Obolon Kiev",
+        "lig": "Premier Lig",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 3,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.36,
+        "digerOran": 2.14,
+        "durum": "acik",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-12T13:51:00+03:00",
+        "arsivZamani": "2026-09-12T14:31:06+03:00"
+      },
+      {
+        "home": "Fenerbahçe",
+        "away": "Beşiktaş",
+        "lig": "Suudi Arabistan Pro Lig",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 85,
+        "skorEv": 2,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.44,
+        "digerOran": 1.96,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T22:35:18.701642+03:00",
+        "arsivZamani": "2026-09-11T23:55:48.189059+03:00"
+      },
+      {
+        "home": "Sydney FC",
+        "away": "Melbourne Victory",
+        "lig": "Arjantin Liga Profesyonal",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 65,
+        "skorEv": 3,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.63,
+        "digerOran": 2.91,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T23:15:16.914665+03:00",
+        "arsivZamani": "2026-09-11T23:49:38.118010+03:00"
+      },
+      {
+        "home": "Juventus",
+        "away": "Napoli",
+        "lig": "Japonya J1 Lig",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 62,
+        "skorEv": 3,
+        "skorDep": 2,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.28,
+        "digerOran": 3.09,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T23:35:29.294495+03:00",
+        "arsivZamani": "2026-09-11T23:52:07.664183+03:00"
+      },
+      {
+        "home": "Rosenborg",
+        "away": "Molde",
+        "lig": "Danimarka Superligaen",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 74,
+        "skorEv": 4,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.55,
+        "digerOran": 2.88,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T23:22:35.010860+03:00",
+        "arsivZamani": "2026-09-11T23:46:50.534624+03:00"
+      },
+      {
+        "home": "Atletico Madrid",
+        "away": "Real Sociedad",
+        "lig": "Norveç Eliteserien",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 61,
+        "skorEv": 4,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.6,
+        "digerOran": 1.96,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T23:01:56.316401+03:00",
+        "arsivZamani": "2026-09-11T23:51:32.556214+03:00"
+      },
+      {
+        "home": "FCSB",
+        "away": "CFR Cluj",
+        "lig": "Avustralya A-Lig",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 76,
+        "skorEv": 4,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.25,
+        "digerOran": 2.54,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T22:46:31.775786+03:00",
+        "arsivZamani": "2026-09-11T23:56:43.149153+03:00"
+      },
+      {
+        "home": "Antalyaspor",
+        "away": "Konyaspor",
+        "lig": "İskoçya Premiership",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 65,
+        "skorEv": 3,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.4,
+        "digerOran": 2.11,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T22:53:58.317855+03:00",
+        "arsivZamani": "2026-09-11T23:53:32.542674+03:00"
+      },
+      {
+        "home": "Olympiakos",
+        "away": "Panathinaikos",
+        "lig": "İspanya La Liga",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 79,
+        "skorEv": 2,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.48,
+        "digerOran": 2.49,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T22:51:31.039383+03:00",
+        "arsivZamani": "2026-09-11T23:43:30.905644+03:00"
+      },
+      {
+        "home": "Chippa Utd",
+        "away": "Mamelodi Sundowns",
+        "lig": "Danimarka Superligaen",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 78,
+        "skorEv": 2,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.24,
+        "digerOran": 2.38,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T22:53:05.679525+03:00",
+        "arsivZamani": "2026-09-11T23:45:25.126825+03:00"
+      },
+      {
+        "home": "Basel",
+        "away": "Young Boys",
+        "lig": "Şili Premier Lig",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 74,
+        "skorEv": 3,
+        "skorDep": 2,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.49,
+        "digerOran": 3.15,
+        "durum": "acik",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T23:14:39.203691+03:00",
+        "arsivZamani": "2026-09-11T23:42:21.246383+03:00"
+      }
+    ],
+    "biten": [
+      {
+        "home": "Al Ahli",
+        "away": "Al Shabab",
+        "lig": "Brezilya Serie A",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.24,
+        "digerOran": 2.49,
+        "durum": "kapali",
+        "sonuc": "TUTMADI",
+        "sinyalZamani": "2026-09-11T15:40:50.418279+03:00",
+        "arsivZamani": "2026-09-11T22:11:30.515304+03:00"
+      },
+      {
+        "home": "Lille",
+        "away": "Nice",
+        "lig": "Portekiz Premier Ligi",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.64,
+        "digerOran": 3.14,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T16:45:34.996840+03:00",
+        "arsivZamani": "2026-09-11T22:51:14.883487+03:00"
+      },
+      {
+        "home": "Gornik Zabrze",
+        "away": "Lech Poznan",
+        "lig": "Fransa Ligue 1",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.52,
+        "digerOran": 2.34,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T15:57:54.311022+03:00",
+        "arsivZamani": "2026-09-11T23:15:03.883700+03:00"
+      },
+      {
+        "home": "Salzburg",
+        "away": "Sturm Graz",
+        "lig": "Türkiye Süper Ligi",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 2,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.21,
+        "digerOran": 2.61,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T16:46:40.719213+03:00",
+        "arsivZamani": "2026-09-11T22:11:29.959456+03:00"
+      },
+      {
+        "home": "Hammarby",
+        "away": "Djurgarden",
+        "lig": "Hırvatistan HNL",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 3,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.31,
+        "digerOran": 3.05,
+        "durum": "kapali",
+        "sonuc": "TUTMADI",
+        "sinyalZamani": "2026-09-11T16:23:07.472732+03:00",
+        "arsivZamani": "2026-09-11T22:14:51.406077+03:00"
+      },
+      {
+        "home": "Flamengo",
+        "away": "Palmeiras",
+        "lig": "Türkiye Süper Ligi",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 3,
+        "skorDep": 2,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.69,
+        "digerOran": 2.29,
+        "durum": "kapali",
+        "sonuc": "TUTMADI",
+        "sinyalZamani": "2026-09-11T20:55:09.619218+03:00",
+        "arsivZamani": "2026-09-11T22:58:56.980105+03:00"
+      },
+      {
+        "home": "Sporting CP",
+        "away": "Braga",
+        "lig": "Belçika Pro Lig",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 3,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.66,
+        "digerOran": 2.43,
+        "durum": "kapali",
+        "sonuc": "TUTMADI",
+        "sinyalZamani": "2026-09-11T21:58:15.405442+03:00",
+        "arsivZamani": "2026-09-11T22:59:21.582008+03:00"
+      },
+      {
+        "home": "Beijing Guoan",
+        "away": "Shanghai Shenhua",
+        "lig": "Güney Kore K Lig 1",
+        "taktik": "T1",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 1,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.24,
+        "digerOran": 2.42,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T20:36:43.291513+03:00",
+        "arsivZamani": "2026-09-11T22:38:24.741445+03:00"
+      },
+      {
+        "home": "Ludogorets",
+        "away": "Levski Sofia",
+        "lig": "Belçika Pro Lig",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.45,
+        "digerOran": 3.17,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T20:36:34.239036+03:00",
+        "arsivZamani": "2026-09-11T22:24:07.502537+03:00"
+      },
+      {
+        "home": "Dinamo Zagreb",
+        "away": "Hajduk Split",
+        "lig": "Suudi Arabistan Pro Lig",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 3,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.38,
+        "digerOran": 2.39,
+        "durum": "kapali",
+        "sonuc": "TUTMADI",
+        "sinyalZamani": "2026-09-11T20:02:50.248754+03:00",
+        "arsivZamani": "2026-09-11T23:01:05.543818+03:00"
+      },
+      {
+        "home": "Koper",
+        "away": "O. Ljubljana",
+        "lig": "Avustralya A-Lig",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": null,
+        "digerOran": null,
+        "durum": "mac_bulunamadi",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T17:03:24.280479+03:00",
+        "arsivZamani": "2026-09-11T22:09:00.919741+03:00"
+      },
+      {
+        "home": "Colo Colo",
+        "away": "Universidad de Chile",
+        "lig": "Çin Süper Lig",
+        "taktik": "T2",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": null,
+        "digerOran": null,
+        "durum": "hata",
+        "sonuc": "BİLİNMİYOR",
+        "sinyalZamani": "2026-09-11T16:14:43.300005+03:00",
+        "arsivZamani": "2026-09-11T22:50:33.417223+03:00"
+      },
+      {
+        "home": "PSG",
+        "away": "Marsilya",
+        "lig": "Romanya Liga 1",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 4,
+        "skorDep": 1,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.18,
+        "digerOran": 2.47,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T15:27:45.817763+03:00",
+        "arsivZamani": "2026-09-11T22:08:09.169259+03:00"
+      },
+      {
+        "home": "Liverpool",
+        "away": "Manchester City",
+        "lig": "Avustralya A-Lig",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 2,
+        "skorDep": 0,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.49,
+        "digerOran": 1.91,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T16:57:36.605697+03:00",
+        "arsivZamani": "2026-09-11T23:24:21.633021+03:00"
+      },
+      {
+        "home": "Nublense",
+        "away": "Everton DV",
+        "lig": "Romanya Liga 1",
+        "taktik": "T3",
+        "tahmin": "MS 3.5 ÜST",
+        "dk": 90,
+        "skorEv": 4,
+        "skorDep": 2,
+        "market": "Alt/Üst 3.5",
+        "yon": "Üst",
+        "oran": 1.67,
+        "digerOran": 3.35,
+        "durum": "kapali",
+        "sonuc": "TUTTU",
+        "sinyalZamani": "2026-09-11T14:07:49.334520+03:00",
+        "arsivZamani": "2026-09-11T22:12:17.306144+03:00"
+      }
+    ]
+  }
+}
